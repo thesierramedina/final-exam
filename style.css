@@ -38,6 +38,11 @@ p {
 	line-height: 1.8;
 }
 
+footer {
+	font-family: 'Readex Pro', sans-serif;
+	text-align: center;
+}
+
 #img1 {
 	padding-right: 20px;
 	padding-left: 10px;
